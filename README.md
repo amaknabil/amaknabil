@@ -1,3 +1,6 @@
+
+<img width="2000" height="600" alt="Banner (1)" src="https://github.com/user-attachments/assets/6f8bd724-67bf-4212-a596-4dced033e319" />
+
 # 👋 Hey, I'm Ahmad Nabil aka `Amak Nabil`
 **🧑‍💻 About Me:** 
 
