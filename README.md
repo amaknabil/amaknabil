@@ -17,10 +17,11 @@ pipelines, crafting web experiences, and finding elegant solutions to complex pr
 `Data Engineering` `Web Development` `Automation` `Back-End` `Cloud`
 
 **Languages:**  
-`Python` `SQL` `JavaScript` `HTML`
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Tools & Platforms:**  
-`DigitalOcean` `AWS` `DuckDB` `Prefect` `Linux(Cron)` `Power BI` `Git` `Docker`
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black) ![Prefect](https://img.shields.io/badge/Prefect-024DFD?style=for-the-badge&logo=prefect&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 ---
 
@@ -36,3 +37,6 @@ pipelines, crafting web experiences, and finding elegant solutions to complex pr
 ---
 
 > "I possess all the tools; I just need to build the pipeline." — Gate of Babylon" ☄️
+
+
+
