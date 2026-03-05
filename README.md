@@ -3,9 +3,7 @@
 
 I'm just an average `NPC Programmer` navigating the tech world, still grinding 
 side quests, but the builds are real. Passionate about building robust data 
-pipelines, crafting web experiences, and finding elegant solutions to complex problems.
-
-**📫 Connect With Me:**  
+pipelines, crafting web experiences, and finding elegant solutions to complex problems. 
 
 📧 Email: [amaknabil2001@gmail.com](mailto:amaknabil2001@gmail.com)  
 🔗 LinkedIn: [Ahmad Nabil Yusoff](https://www.linkedin.com/in/amaknabil)
