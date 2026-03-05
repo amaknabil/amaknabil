@@ -1,40 +1,38 @@
-# 👋 Hi, I’m Wan Akmal
+# 👋 Hi, I’m Ahmad Nabil aka Amak Nabil
 
-💡 I build things with data, code, and a bit of creativity.  
-🚀 From SQL dashboards to Unity games — I like mixing tech with problem-solving.  
-🧠 Currently part of the K-Youth Development Programme (Machine Learning Track), sharpening my ML & AI skills  
-🌟 I bring initiative, teamwork, and a strong “let’s figure it out” mindset.
+I’m just an average `NPC Programmer` navigating the tech world. While I might not be the main character yet, I’m passionate about building robust data pipelines and finding elegant solutions to complex problems.
 
 ---
 
 ## 🧩 Tech Stack
 
+**Domain:**  
+`Data Engineering` `Web Development` `Automation` `Back-End Developer` `Cloud`
+
 **Languages:**  
-`Python` `Java` `C++` `C#` `SQL` `PHP` `JavaScript` `HTML`
+`Python` `SQL` `JavaScript` `HTML`
 
 **Tools & Platforms:**  
-`Power BI` `Unity` `Firebase` `Microsoft Excel` `Docker` `Kubernetes` `Oracle` `Git` `MSSQL`
+`DigitalOcean` `AWS` `DuckDB` `DBeaver` `Prefect` `Linux(Cron)` `Power BI` `Git` 
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎮 [Data Quest – A 2D Big Data Learning Game](https://github.com/wankenob1/Data-Quest)
-- Final Year Project supervised by Dr. Jasber Kaur
-- Pac-Man-style mobile game that teaches Big Data concepts (Unity + C# + Unity Cloud)
+### 🎮 [Blood ETL Pipeline](https://github.com/amaknabil/etl-blood-donationt)
+- This project is an Extract, Transform, Load (ETL) pipeline built with Python, designed to process historical blood donation data efficiently.
+- The ETL process performs the following key functions:
+-- Extract: Retrieves raw data from a remote Parquet file (via URL).
+-- Transform: Cleans, formats, and processes the data using Pandas.
+-- Load: Stores the cleaned dataset into a local DuckDB database for easy querying and analysis.
 
-### 🤖 [Mudah Apartment Rent Predictor – KL & Selangor](https://github.com/wankenob1/selangorkl-rental-predictor)
-- Random Forest model with Python & scikit-learn to estimate apartment rental prices
-
-### 🛠️ [Fraud Microservices Dashboard (Backend)](https://github.com/Fraud-Detection-Team/fraud-backend)
-- Built with Python, FastAPI & Pandas; developed 5 REST APIs for data ingestion, predictive analytics, and visualization, secured with JWT, and deployed on Railway for real-time use
 
 ---
 
 ## 📫 Connect With Me
-- ✉️ Email: [wankmal9921@gmail.com](mailto:wankmal9921@gmail.com)  
-- 🔗 LinkedIn: [Wan Akmal Wan Mohd Salleh](https://www.linkedin.com/in/wan-akmal-wan-mohd-salleh-4247a72b4/)
+- ✉️ Email: [amaknabil2001@gmail.com](mailto:amaknabil2001@gmail.com)  
+- 🔗 LinkedIn: [Ahmad Nabil Yusoff](https://www.linkedin.com/in/amaknabil)
   
 ---
 
-> "Strong roots in code, passion for learning — and a little bit of the Force." ☄️
+> "I possess all the tools; I just need to build the pipeline." — Gate of Babylon" ☄️
