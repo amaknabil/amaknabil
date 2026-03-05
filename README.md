@@ -1,7 +1,5 @@
-
+# 👋 Hey, I'm Ahmad Nabil aka `Amak Nabil`
 **🧑‍💻 About Me:** 
-
-👋 Hey, I'm Ahmad Nabil but the world knows me as `Amak Nabil`
 
 I'm just an average `NPC Programmer` navigating the tech world, still grinding 
 side quests, but the builds are real. Passionate about building robust data 
