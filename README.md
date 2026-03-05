@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Ahmad Nabil — but the world knows me as `Amak Nabil`
+# 👋 Hey, I'm Ahmad Nabil — but the world knows me as `Amak Nabil`
 
 I'm just an average `NPC Programmer` navigating the tech world, still grinding 
 side quests, but the builds are real. Passionate about building robust data 
@@ -6,22 +6,22 @@ pipelines, crafting web experiences, and finding elegant solutions to complex pr
 
 ---
 
-## 🧩 Tech Stack
+## 🛠️ Tech Stack
 
 **Domain:**  
-`Data Engineering` `Web Development` `Automation` `Back-End Developer` `Cloud`
+`Data Engineering` `Web Development` `Automation` `Back-End` `Cloud`
 
 **Languages:**  
 `Python` `SQL` `JavaScript` `HTML`
 
 **Tools & Platforms:**  
-`DigitalOcean` `AWS` `DuckDB` `DBeaver` `Prefect` `Linux(Cron)` `Power BI` `Git` 
+`DigitalOcean` `AWS` `DuckDB` `Prefect` `Linux(Cron)` `Power BI` `Git` `Docker`
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎮 [Blood ETL Pipeline](https://github.com/amaknabil/etl-blood-donationt)
+### 🩸 [Blood ETL Pipeline](https://github.com/amaknabil/etl-blood-donationt)
 - This project is an Extract, Transform, Load (ETL) pipeline built with `Python`, designed to process historical blood donation data efficiently.
 - An active `automation running on my VM(Digital Ocean)`, occasionally triggered from 8AM to scrape and process data, then deliver updates directly to Telegram.
 - The ETL process performs the following key functions:
@@ -34,7 +34,7 @@ pipelines, crafting web experiences, and finding elegant solutions to complex pr
 ---
 
 ## 📫 Connect With Me
-- ✉️ Email: [amaknabil2001@gmail.com](mailto:amaknabil2001@gmail.com)  
+- 📧 Email: [amaknabil2001@gmail.com](mailto:amaknabil2001@gmail.com)  
 - 🔗 LinkedIn: [Ahmad Nabil Yusoff](https://www.linkedin.com/in/amaknabil)
   
 ---
