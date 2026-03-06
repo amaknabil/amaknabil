@@ -36,6 +36,12 @@ pipelines, crafting web experiences, and finding elegant solutions to complex pr
 - Extract → Transform → Load into `DuckDB` for querying and analysis.
 - Orchestrated with `Prefect` for scheduling and monitoring. for flow scheduling and monitoring.
 
+### 📝 [Wordle Analytics Pipeline](https://github.com/amaknabil/wordle)
+- End-to-end data engineering project built with `Python` + `dbt` to analyze historical Wordle answers.
+- Extracts daily answers from `wordlehints API` → transforms through staged `DuckDB` models → predicts next words.
+- Layered `dbt` architecture (staging → intermediate → marts) with 50 data quality tests.
+- Interactive `Streamlit` dashboard with letter frequency heatmaps, difficulty trends, and top 10 predictions.
+
 
 ---
 
